@@ -1,0 +1,2 @@
+class TeddiesController < ApplicationController
+end
